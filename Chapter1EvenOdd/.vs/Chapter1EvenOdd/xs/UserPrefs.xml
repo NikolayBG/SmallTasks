@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{47206DE1-8AA8-4283-AC9C-62D8224D24FA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Chapter1EvenOdd FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Chapter1EvenOdd/Program.cs">
+    <Files>
+      <File FileName="Chapter1EvenOdd/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chapter1EvenOdd" expanded="True">
+            <Node name="Chapter1EvenOdd" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

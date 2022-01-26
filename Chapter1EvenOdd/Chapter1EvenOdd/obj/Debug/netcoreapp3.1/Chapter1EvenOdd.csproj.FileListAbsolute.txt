@@ -1,0 +1,13 @@
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/bin/Debug/netcoreapp3.1/Chapter1EvenOdd.deps.json
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/bin/Debug/netcoreapp3.1/Chapter1EvenOdd.runtimeconfig.json
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/bin/Debug/netcoreapp3.1/Chapter1EvenOdd.runtimeconfig.dev.json
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/bin/Debug/netcoreapp3.1/Chapter1EvenOdd.dll
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/bin/Debug/netcoreapp3.1/Chapter1EvenOdd.pdb
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/obj/Debug/netcoreapp3.1/Chapter1EvenOdd.csproj.AssemblyReference.cache
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/obj/Debug/netcoreapp3.1/Chapter1EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/obj/Debug/netcoreapp3.1/Chapter1EvenOdd.AssemblyInfoInputs.cache
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/obj/Debug/netcoreapp3.1/Chapter1EvenOdd.AssemblyInfo.cs
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/obj/Debug/netcoreapp3.1/Chapter1EvenOdd.csproj.CoreCompileInputs.cache
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/obj/Debug/netcoreapp3.1/Chapter1EvenOdd.dll
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/obj/Debug/netcoreapp3.1/Chapter1EvenOdd.pdb
+/Users/nicky/Projects/Chapter1EvenOdd/Chapter1EvenOdd/obj/Debug/netcoreapp3.1/Chapter1EvenOdd.genruntimeconfig.cache
